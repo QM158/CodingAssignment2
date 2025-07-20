@@ -2,31 +2,52 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Weather Alert System</title>
-  <link rel="stylesheet" href="style.css">
+  <meta name="author" content="Your Name">
+  <title>The Eggcellent Bite</title>
 </head>
-<body>
-  <header>
-    <h1>Weather Alert System</h1>
-  </header>
+<body style="background-image: url('images/kitchen-background.jpg'); background-size: cover; font-family: Georgia, serif; color: #2e2e2e; padding: 1rem;">
 
-  <section>
-    <h2>Sign Up for Alerts</h2>
-    <p>
-      Register to receive immediate notifications via text when classes are canceled, campus closes, or severe weather strikes.
-    </p>
-    <img src="images/alert-icon.png" alt="Alert icon showing a warning symbol">
-  </section>
+  <h1>The Eggcellent Bite</h1>
+
+  <h2>Deviled Eggs</h2>
+
+  <p>Recipe source: https://www.simplyrecipes.com/recipes/deviled_eggs/</p>
 
   <figure>
-    <img src="https://live.staticflickr.com/65535/47556855001_3c5e1d1e6b_b.jpg" alt="Weather alert scene by Tony Webster">
-    <figcaption>
-      Photo by <a href="https://flickr.com/photos/87296837@N00/47556855001" target="_blank" rel="noopener">Tony Webster on Flickr</a>
-    </figcaption>
+    <img src="images/deviled-eggs.jpg" alt="Plate of deviled eggs" style="height:250px;">
+    <figcaption>Classic deviled eggs served chilled</figcaption>
   </figure>
 
-  <footer>
-    <p>This site was created for educational purposes only.</p>
-  </footer>
+  <h3>Ingredients</h3>
+  <ul>
+    <li>6 hard-boiled eggs</li>
+    <li>3 tablespoons mayonnaise</li>
+    <li>1 teaspoon mustard</li>
+    <li>Salt and pepper to taste</li>
+    <li>Paprika for garnish</li>
+  </ul>
+
+  <h3>Equipment</h3>
+  <ul>
+    <li>Medium saucepan</li>
+    <li>Mixing bowl</li>
+    <li>Fork or whisk</li>
+    <li>Knife</li>
+  </ul>
+
+  <h3>Directions</h3>
+  <ol>
+    <li>Peel the eggs and slice them in half lengthwise.</li>
+    <li>Remove the yolks and place them in a bowl.</li>
+    <li>Mash yolks with mayonnaise, mustard, salt, and pepper.</li>
+    <li>Spoon or pipe the mixture back into the egg whites.</li>
+    <li>Sprinkle with paprika and chill before serving.</li>
+  </ol>
+
+  <hr />
+
+  <p style="text-align: right;">This page created as academic activity only.</p>
+
 </body>
 </html>
+
