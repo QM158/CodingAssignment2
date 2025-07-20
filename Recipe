@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Weather Alert System</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Weather Alert System</h1>
+  </header>
+
+  <section>
+    <h2>Sign Up for Alerts</h2>
+    <p>
+      Register to receive immediate notifications via text when classes are canceled, campus closes, or severe weather strikes.
+    </p>
+    <img src="images/alert-icon.png" alt="Alert icon showing a warning symbol">
+  </section>
+
+  <figure>
+    <img src="https://live.staticflickr.com/65535/47556855001_3c5e1d1e6b_b.jpg" alt="Weather alert scene by Tony Webster">
+    <figcaption>
+      Photo by <a href="https://flickr.com/photos/87296837@N00/47556855001" target="_blank" rel="noopener">Tony Webster on Flickr</a>
+    </figcaption>
+  </figure>
+
+  <footer>
+    <p>This site was created for educational purposes only.</p>
+  </footer>
+</body>
+</html>
