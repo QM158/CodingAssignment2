@@ -2,52 +2,62 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="author" content="Your Name">
-  <title>The Eggcellent Bite</title>
+  <meta name="author" content="Quinn">
+  <title>Sundae Sunrise Delight</title>
 </head>
-<body style="background-image: url('images/kitchen-background.jpg'); background-size: cover; font-family: Georgia, serif; color: #2e2e2e; padding: 1rem;">
+<body style="background-image: url('images/ice-cream-background.jpg'); background-size: cover; font-family: 'Verdana', sans-serif; color: #3a3a3a; padding: 1rem;">
 
-  <h1>The Eggcellent Bite</h1>
+  <h1>Sundae Sunrise Delight</h1>
 
-  <h2>Deviled Eggs</h2>
+  <h2>Banana Split Sundae</h2>
 
-  <p>Recipe source: https://www.simplyrecipes.com/recipes/deviled_eggs/</p>
+  <p>Recipe source: Created by Quinn based on personal kitchen experiments and classic inspiration</p>
 
   <figure>
-    <img src="images/deviled-eggs.jpg" alt="Plate of deviled eggs" style="height:250px;">
-    <figcaption>Classic deviled eggs served chilled</figcaption>
+    <img src="images/banana-split-sundae.jpg" alt="Banana split sundae topped with whipped cream, cherries, and sprinkles" style="height:250px;">
+    <figcaption>
+      Banana split image sourced from 
+      <a href="https://stock.adobe.com/search?k=banana+split" target="_blank" rel="noopener">Adobe Stock</a>. Used for educational purposes.
+    </figcaption>
   </figure>
 
   <h3>Ingredients</h3>
   <ul>
-    <li>6 hard-boiled eggs</li>
-    <li>3 tablespoons mayonnaise</li>
-    <li>1 teaspoon mustard</li>
-    <li>Salt and pepper to taste</li>
-    <li>Paprika for garnish</li>
+    <li>1 ripe banana</li>
+    <li>3 scoops of ice cream (vanilla, chocolate, strawberry)</li>
+    <li>Whipped cream</li>
+    <li>Chocolate syrup</li>
+    <li>Crushed nuts</li>
+    <li>Maraschino cherry</li>
+    <li>Sprinkles (optional)</li>
   </ul>
 
   <h3>Equipment</h3>
   <ul>
-    <li>Medium saucepan</li>
-    <li>Mixing bowl</li>
-    <li>Fork or whisk</li>
-    <li>Knife</li>
+    <li>Long sundae dish</li>
+    <li>Ice cream scooper</li>
+    <li>Butter knife</li>
+    <li>Spoon</li>
   </ul>
 
   <h3>Directions</h3>
   <ol>
-    <li>Peel the eggs and slice them in half lengthwise.</li>
-    <li>Remove the yolks and place them in a bowl.</li>
-    <li>Mash yolks with mayonnaise, mustard, salt, and pepper.</li>
-    <li>Spoon or pipe the mixture back into the egg whites.</li>
-    <li>Sprinkle with paprika and chill before serving.</li>
+    <li>Peel the banana and slice it in half lengthwise. Place both halves in the dish.</li>
+    <li>Add three scoops of ice cream in a row between the banana halves.</li>
+    <li>Drizzle chocolate syrup over the top.</li>
+    <li>Add whipped cream generously to each scoop.</li>
+    <li>Sprinkle crushed nuts and optional sprinkles over the whipped cream.</li>
+    <li>Top each scoop with a maraschino cherry and serve immediately.</li>
   </ol>
 
   <hr />
 
   <p style="text-align: right;">This page created as academic activity only.</p>
 
+  <figure>
+    <img src="images/valid-html-recipe-quinn.jpg" alt="Screenshot of successful HTML validation for recipe page" style="height:250px;">
+    <figcaption>Validation screenshot showing successful HTML check from <a href="https://validator.w3.org/" target="_blank" rel="noopener">W3C Validator</a></figcaption>
+  </figure>
+
 </body>
 </html>
-
